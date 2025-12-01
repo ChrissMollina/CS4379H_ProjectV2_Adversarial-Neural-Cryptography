@@ -1,7 +1,7 @@
 """
 Inference API for signing and verifying images with AES-encrypted watermarks.
 
-This module handles ONLY inference/prediction operations following SRP.
+This module handles inference/prediction operations following SRP.
 Provides high-level API for:
 - Signing images with encrypted watermarks
 - Verifying image authenticity and extracting messages

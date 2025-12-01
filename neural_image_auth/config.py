@@ -1,7 +1,7 @@
 """
 Configuration module - Hyperparameters and constants for the neural image authentication system.
 
-This module follows SRP (Single Responsibility Principle) by ONLY containing configuration values.
+This module only contains configuration values.
 All constants are defined here for easy modification and centralized management.
 """
 
